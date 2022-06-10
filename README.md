@@ -10,7 +10,6 @@ Anteriormente minhas experiências foram sempre na área da logística, então e
 
 Como um ser anormal neste mundo, eu não tenho redes sociais 😮, então me mande uma mensagem por aqui (https://discordapp.com/users/322152056251088898) ou por aqui (chequettipaulo@gmail.com)  e eu terei o prazer de lhe responder, fico no aguardo ☺️
 
-Aqui estão os dados do meu gitHub
 <div>
 <a href="https://github.com/Paulo-Chequetti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloChequetti&layout=compact&langs_count=7&theme=dracula"/>
