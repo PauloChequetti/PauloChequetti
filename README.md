@@ -8,7 +8,13 @@ Opa, me chamo Paulo!
 
 Anteriormente minhas experiências foram sempre na área da logística, então estou iniciando um novo começo ⚡
 
-Como um ser anormal neste mundo eu não tenho redes sociais 😮, então me mande uma mensagem por aqui (https://discordapp.com/users/322152056251088898), ou por aqui (chequettipaulo@gmail.com).  Eu terei o prazer de lhe responder ☺️
+Caso queira se conectar comigo, me mande uma mensagem pelos links abaixo.
+
+https://discordapp.com/users/322152056251088898
+
+https://www.linkedin.com/in/paulo-chequetti-ab2b28242
+
+chequettipaulo@gmail.com
 
 <div>
 <a href="https://github.com/Paulo-Chequetti">
