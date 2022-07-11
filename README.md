@@ -8,9 +8,9 @@ Opa, me chamo Paulo!
 Anteriormente minhas experiências foram sempre na área da logística, então estou iniciando um novo começo ⚡<br>
 Caso queira se conectar comigo, me mande uma mensagem pelos links abaixo.
 
-https://discordapp.com/users/322152056251088898<br>
-https://www.linkedin.com/in/paulo-chequetti-ab2b28242<br>
-chequettipaulo@gmail.com<br>
+<a href="https://discordapp.com/users/322152056251088898" target="_blank">Discord</a><br>
+<a href="https://www.linkedin.com/in/paulo-chequetti-ab2b28242" target="_blank">Linkedin</a><br>
+<a href="chequettipaulo@gmail.com" target="_blank">Gmail</a><br>
 
 <div>
 <a href="https://github.com/Paulo-Chequetti">
