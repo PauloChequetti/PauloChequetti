@@ -4,17 +4,13 @@ Opa, me chamo Paulo!
 
   Atualmente estou iniciando os estudos no mundo da programação na área de desenvolvimento web 💻 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
-
-Anteriormente minhas experiências foram sempre na área da logística, então estou iniciando um novo começo ⚡
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" /><br>
+Anteriormente minhas experiências foram sempre na área da logística, então estou iniciando um novo começo ⚡<br>
 Caso queira se conectar comigo, me mande uma mensagem pelos links abaixo.
 
-https://discordapp.com/users/322152056251088898
-
-https://www.linkedin.com/in/paulo-chequetti-ab2b28242
-
-chequettipaulo@gmail.com
+https://discordapp.com/users/322152056251088898<br>
+https://www.linkedin.com/in/paulo-chequetti-ab2b28242<br>
+chequettipaulo@gmail.com<br>
 
 <div>
 <a href="https://github.com/Paulo-Chequetti">
