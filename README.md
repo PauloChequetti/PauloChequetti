@@ -11,9 +11,3 @@ Caso queira se conectar comigo, me mande uma mensagem pelos links abaixo.
 <a href="https://discordapp.com/users/322152056251088898" target="_blank">Discord</a><br>
 <a href="https://www.linkedin.com/in/paulo-chequetti-ab2b28242" target="_blank">Linkedin</a><br>
 chequettipaulo@gmail.com
-
-<div>
-<a href="https://github.com/Paulo-Chequetti">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloChequetti&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloChequetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
