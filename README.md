@@ -9,5 +9,5 @@ Anteriormente minhas experiências foram sempre na área da logística, então e
 Caso queira se conectar comigo, me mande uma mensagem pelos links abaixo.
 
 <a href="https://discordapp.com/users/322152056251088898" target="_blank">Discord</a><br>
-<a href="https://www.linkedin.com/in/paulo-chequetti-ab2b28242" target="_blank">Linkedin</a><br>
+<a href="https://www.linkedin.com/in/paulo-chequetti/" target="_blank">Linkedin</a><br>
 chequettipaulo@gmail.com
